@@ -1,0 +1,1 @@
+[15-Jul-2016 16:04:07 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/adityaan/public_html/app/Category.php on line 7

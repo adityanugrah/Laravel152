@@ -1,0 +1,27 @@
+[26-Jun-2016 16:54:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting function (T_FUNCTION) in /home/adityaan/app/Http/Middleware/VerifyCsrfToken.php on line 14
+[26-Jun-2016 16:54:21 UTC] PHP Parse error:  syntax error, unexpected '<', expecting function (T_FUNCTION) in /home/adityaan/app/Http/Middleware/VerifyCsrfToken.php on line 14
+[26-Jun-2016 16:54:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/adityaan/app/Http/Middleware/VerifyCsrfToken.php on line 24
+[27-Jun-2016 04:01:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/adityaan/app/Http/Controllers/ShippersController.php on line 126
+[27-Jun-2016 04:01:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/adityaan/app/Http/Controllers/ShippersController.php on line 126
+[27-Jun-2016 04:02:21 UTC] PHP Parse error:  syntax error, unexpected '{', expecting function (T_FUNCTION) in /home/adityaan/app/Http/Controllers/ShippersController.php on line 133
+[27-Jun-2016 04:22:22 UTC] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting function (T_FUNCTION) in /home/adityaan/app/Shippers.php on line 16
+[27-Jun-2016 04:25:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/adityaan/app/Http/Controllers/ShippersController.php on line 98
+[27-Jun-2016 04:25:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/adityaan/app/Http/Controllers/ShippersController.php on line 98
+[27-Jun-2016 04:25:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/adityaan/app/Http/Controllers/ShippersController.php on line 98
+[27-Jun-2016 04:26:56 UTC] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting function (T_FUNCTION) in /home/adityaan/app/Shippers.php on line 16
+[27-Jun-2016 04:27:46 UTC] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting function (T_FUNCTION) in /home/adityaan/app/Shippers.php on line 16
+[27-Jun-2016 04:27:51 UTC] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting function (T_FUNCTION) in /home/adityaan/app/Shippers.php on line 16
+[27-Jun-2016 04:31:29 UTC] PHP Parse error:  syntax error, unexpected ''Picture'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/adityaan/app/Http/Controllers/CategoryController.php on line 51
+[27-Jun-2016 04:31:56 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/adityaan/app/Http/Controllers/CategoryController.php on line 60
+[27-Jun-2016 04:32:14 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/adityaan/app/Http/Controllers/CategoryController.php on line 60
+[27-Jun-2016 05:31:58 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/adityaan/app/Http/Controllers/CategoryController.php on line 60
+[27-Jun-2016 05:55:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Products' not found in /home/adityaan/app/Http/Controllers/ShippersController.php on line 106
+[27-Jun-2016 06:43:43 UTC] PHP Parse error:  syntax error, unexpected ''Picture'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/adityaan/app/Http/Controllers/CategoryController.php on line 51
+[27-Jun-2016 06:55:53 UTC] PHP Fatal error:  Class 'App\Shippers' not found in /home/adityaan/app/Http/Controllers/ShippersController.php on line 22
+[27-Jun-2016 06:55:53 UTC] PHP Fatal error:  Class 'App\Shippers' not found in /home/adityaan/app/Http/Controllers/ShippersController.php on line 22
+[27-Jun-2016 14:53:01 Asia/Jakarta] PHP Warning:  require(/home/adityaan/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/adityaan/public_html/index.php on line 22
+[27-Jun-2016 14:53:01 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/adityaan/public_html/../bootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adityaan/public_html/index.php on line 22
+[27-Jun-2016 14:53:56 Asia/Jakarta] PHP Warning:  require(/home/adityaan/public_htmlbootstrap/autoload.php): failed to open stream: No such file or directory in /home/adityaan/public_html/index.php on line 22
+[27-Jun-2016 14:53:56 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/adityaan/public_htmlbootstrap/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adityaan/public_html/index.php on line 22
+[27-Jun-2016 08:39:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/adityaan/public_html/app/Http/Controllers/CategoryController.php on line 132
+[27-Jun-2016 08:39:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/adityaan/public_html/app/Http/Controllers/CategoryController.php on line 132
